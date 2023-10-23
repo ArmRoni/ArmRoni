@@ -24,9 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/arm-roni-b71bb4241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronimai" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aborayhanmdroni.roni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronimia" height="30" width="40" /></a>
-
 <a href="https://codepen.io/Roni-Mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ronimia" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/arm_ro_ni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronimia" height="30" width="40" /></a>
 
 <!-- <a href="https://twitter.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiqulshourav" height="30" width="40" /></a> -->
