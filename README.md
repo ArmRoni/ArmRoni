@@ -3,34 +3,27 @@
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqulshourav&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqulshourav" /> </p>
+- 🔭 I’m currently working on [brokertarieven](https://datafanatics.nl/) 
 
-<p align="left"> <a href="https://twitter.com/ashiqulshourav" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="ashiqulshourav" /></a> </p>
-
-- 🔭 I’m currently working on [brokertarieven](https://brokertarieven.nl) & [brokerdata](https://brokerdata.tech) & [compareallbrokers](https://compareallbrokers.com)
-
-- 🌱 I’m currently learning **Node JS & React Js**
+- 🌱 I’m currently learning **React Js**
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at this [link](https://github.com/ashiqulshourav/websites)
+- 👨‍💻 All of my projects are available at this [link](https://github.com/ArmRoni)
 
 - 💬 Ask me about **HTML, CSS, sass, Bootstrap, vanilla JS, jQuery, Ajax, API**
 
-- 📫 How to reach me **ashiqulshouravdev@gmail.com**
+- 📫 How to reach me **aronimia5141@gmail.com**
 
-- 📄 Know about my experiences in this [Resume](https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link)
+- 📄 Know about my experiences in this [Resume]([https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link](https://docs.google.com/document/d/1vh6CI1pWDIzXEJSmF6VDZMzCk1xiPaVp/edit))
 
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiqulshourav" height="30" width="40" /></a>
-<a href="https://fb.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiqulshourav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arm-roni-b71bb4241/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armroni" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aborayhanmdroni.roni/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armroni" height="30" width="40" /></a>
 <a href="https://codepen.io/shouravnkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shouravnkt" height="30" width="40" /></a>
-<a href="https://instagram.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashiqulshourav" height="30" width="40" /></a>
-<a href="https://twitter.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiqulshourav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAvKKTiGb2tYOuXweFYJ60Q?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nimpat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiqulshourav" height="30" width="40" /></a>
+<a href=" https://www.instagram.com/arm_ro_ni/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armroni" height="30" width="40" /></a>
 </p>
 
 <br/>
